@@ -1,7 +1,7 @@
 package com.qaa.module3.unit_testing_exercises.exercise1;
 
 public class Calculator {
-
+//add a double number
 	public double add(double num1, double num2) {
 		return num1 + num2;
 	}
